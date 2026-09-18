@@ -1,7 +1,7 @@
 #--------------------------#
 # Magento Default Files    #
 #--------------------------#
-
+/assests
 /PATCH_*.sh
 
 /app/etc/local.xml
